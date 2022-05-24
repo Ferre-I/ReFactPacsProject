@@ -1,5 +1,8 @@
 !ccccccccccccccccccccccccccccccccccccccc
-!CC Primer programa de PACSAB
+!Actualización para correr en gfortran 9.4.0
+!
+!
+!CC Primer programa de preprocesamiento de PACSAB
 !CC
 	program topol
 	parameter (natmax=10000)
