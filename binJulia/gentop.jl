@@ -1,3 +1,12 @@
+#=Traducción del programa gentop de FORTRAN a Julia
+
+Por Fernando Ivan Avila Armenta
+A 10 de Junio del 2022
+
+Subido a Github el 16 de Junio del 2022
+=#
+
+
 
 using DelimitedFiles
 using DataStructures
